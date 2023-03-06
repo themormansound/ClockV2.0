@@ -5,5 +5,5 @@ An arduino nano based Euro module for making clock code come to life
 4 pots connected to A1, A2, A3 and A4
 2 led tactile switches on D2 and D3 (interrupt pins on nano) leds hang off pins D4 and D5
 
-UNTESTED
+UNTESTED, waiting on assembly.
 
