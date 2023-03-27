@@ -9,3 +9,4 @@ An arduino nano based Euro module for making clock code come to life
 
 UNTESTED, waiting on assembly.
 
+![image](https://user-images.githubusercontent.com/59832891/227915404-9f7b6c8f-1345-4717-8f3b-05a63d213133.png)
