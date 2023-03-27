@@ -1,6 +1,3 @@
-/*********************Programmed by SyntheMafia(06_06_2018)**********************/
-
-
 #include <SimpleTimer.h>
 
 
@@ -13,9 +10,7 @@ void setup() {
   pinMode(8, OUTPUT);
   pinMode(9, OUTPUT);
   pinMode(10, OUTPUT);
-  pinMode(11, OUTPUT);
-  //pinMode(6, INPUT);
-    
+  pinMode(11, OUTPUT); 
 }
 
 bool started = false;
@@ -26,8 +21,8 @@ int tap_time;
 int time_actual;
 int input1X = 0;
 float BPM; 
-int max_BPM = 500; /******************************************** write hier the max BPM that you want */
-int min_BPM = 60;  /******************************************** write hier the min BPM that you want */
+int max_BPM = 500; /* Max BPM*/
+int min_BPM = 60;  /*Min BPM */
 int max_time = ((1/(min_BPM/60)) * 1000);
 int min_time = ((1/(max_BPM/60)) * 1000);
 
