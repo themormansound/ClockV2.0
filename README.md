@@ -7,6 +7,6 @@ An arduino nano based Euro module for making clock code come to life
 
 2 led tactile switches on D2 and D3 (interrupt pins on nano) leds hang off pins D4 and D5
 
-UNTESTED, waiting on assembly.
+Included is some sample code
 
 ![image](https://user-images.githubusercontent.com/59832891/227915404-9f7b6c8f-1345-4717-8f3b-05a63d213133.png)
